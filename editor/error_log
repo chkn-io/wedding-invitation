@@ -1,0 +1,72 @@
+[26-Nov-2021 05:54:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 05:55:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 05:55:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 05:55:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 05:55:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 06:00:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[26-Nov-2021 06:00:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php(59): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/processes/config.php on line 2
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[18-Dec-2021 15:40:32 UTC] PHP Notice:  Undefined variable: alotted in /home/uf5jo9bbxabs/public_html/rexiepercian.ml/editor/index.php on line 75
+[04-May-2022 04:31:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/index.php(60): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php on line 2
+[04-May-2022 04:31:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/index.php(60): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php on line 2
+[04-May-2022 04:31:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/index.php(60): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php on line 2
+[04-May-2022 04:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php:2
+Stack trace:
+#0 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/index.php(60): require_once('/home/uf5jo9bbx...')
+#2 {main}
+  thrown in /home/uf5jo9bbxabs/public_html/emm-yhan.ml/editor/processes/config.php on line 2
